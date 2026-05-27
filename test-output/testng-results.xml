@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-27T10:50:06 PDT" name="API Automation Suite" finished-at="2026-05-27T10:50:12 PDT" duration-ms="6979">
+    <groups>
+    </groups>
+    <test started-at="2026-05-27T10:50:06 PDT" name="User API Tests" finished-at="2026-05-27T10:50:12 PDT" duration-ms="6979">
+      <class name="tests.UserTests">
+        <test-method signature="createUserPositive()[pri:1, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:06 PDT" name="createUserPositive" finished-at="2026-05-27T10:50:08 PDT" duration-ms="2910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserPositive -->
+        <test-method signature="createUserNegative()[pri:2, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:09 PDT" name="createUserNegative" finished-at="2026-05-27T10:50:10 PDT" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserNegative -->
+        <test-method signature="getUserPositive()[pri:3, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:10 PDT" name="getUserPositive" finished-at="2026-05-27T10:50:10 PDT" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserPositive -->
+        <test-method signature="getUserNegative()[pri:4, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:10 PDT" name="getUserNegative" finished-at="2026-05-27T10:50:11 PDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserNegative -->
+        <test-method signature="updateUserPositive()[pri:5, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:11 PDT" name="updateUserPositive" finished-at="2026-05-27T10:50:11 PDT" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserPositive -->
+        <test-method signature="updateUserNegative()[pri:6, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:11 PDT" name="updateUserNegative" finished-at="2026-05-27T10:50:12 PDT" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserNegative -->
+        <test-method signature="deleteUserPositive()[pri:7, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:12 PDT" name="deleteUserPositive" finished-at="2026-05-27T10:50:12 PDT" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserPositive -->
+        <test-method signature="deleteUserNegative()[pri:8, instance:tests.UserTests@1ed6388a]" started-at="2026-05-27T10:50:12 PDT" name="deleteUserNegative" finished-at="2026-05-27T10:50:12 PDT" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserNegative -->
+      </class> <!-- tests.UserTests -->
+    </test> <!-- User API Tests -->
+  </suite> <!-- API Automation Suite -->
+</testng-results>

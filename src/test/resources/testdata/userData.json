@@ -1,0 +1,29 @@
+{
+  "createUserPositive": {
+    "name": "John Doe",
+    "email": "john123@gmail.com",
+    "gender": "male",
+    "status": "active"
+  },
+
+  "createUserNegative": {
+    "name": "",
+    "email": "invalid",
+    "gender": "male",
+    "status": "active"
+  },
+
+  "updateUserPositive": {
+    "name": "Updated User",
+    "email": "updated@gmail.com",
+    "gender": "male",
+    "status": "active"
+  },
+
+  "updateUserNegative": {
+    "name": "",
+    "email": "wrongmail",
+    "gender": "male",
+    "status": "active"
+  }
+}

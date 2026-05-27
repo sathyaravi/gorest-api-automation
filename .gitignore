@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# Logs
+logs/
+*.log
+
+# Allure
+allure-results/
+allure-report/
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
+
+# Temporary
+tmp/
